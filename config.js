@@ -1,8 +1,8 @@
 
 module.exports = {
   PREFIX: '*', // برفيكس
-  CHANNEL_ID: '', // ايدي الروم 
-  BYPASS_ROLE_ID: '', // ايدي الروتبه ال بتتخطي  الكول دون 
+  CHANNEL_ID: '1452768808786854024', // ايدي الروم 
+  BYPASS_ROLE_ID: '1452414408444743680', // ايدي الروتبه ال بتتخطي  الكول دون 
   BOT_TOKEN: 'MTM4NjAzMDg1OTExODcwNjg0OA.GE7f2R.fm-AlX_qFMaVTE3ybEJYCXuUEO7wcryMID_Bpo', // توكن البوت
    TOKEN_LIST: ['', '', ''], // توكنات الحسابات
   EMBED_COLOR: 0x00ff00, // لون الامبيد
@@ -52,3 +52,4 @@ module.exports = {
   },
 
 };
+
